@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build",
+  "command": "/usr/bin/g++  -I/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src -g -std=gnu++14 -o CMakeFiles/ProyectoFinal.dir/src/Model.cpp.o -c /home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Model.cpp",
+  "file": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Model.cpp",
+  "output": "CMakeFiles/ProyectoFinal.dir/src/Model.cpp.o"
+},
+{
+  "directory": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build",
+  "command": "/usr/bin/g++  -I/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src -g -std=gnu++14 -o CMakeFiles/ProyectoFinal.dir/src/Shaders.cpp.o -c /home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Shaders.cpp",
+  "file": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Shaders.cpp",
+  "output": "CMakeFiles/ProyectoFinal.dir/src/Shaders.cpp.o"
+},
+{
+  "directory": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build",
+  "command": "/usr/bin/g++  -I/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src -g -std=gnu++14 -o CMakeFiles/ProyectoFinal.dir/src/Texture.cpp.o -c /home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Texture.cpp",
+  "file": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/Texture.cpp",
+  "output": "CMakeFiles/ProyectoFinal.dir/src/Texture.cpp.o"
+},
+{
+  "directory": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build",
+  "command": "/usr/bin/g++  -I/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src -g -std=gnu++14 -o CMakeFiles/ProyectoFinal.dir/src/main.cpp.o -c /home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/main.cpp",
+  "file": "/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/src/main.cpp",
+  "output": "CMakeFiles/ProyectoFinal.dir/src/main.cpp.o"
+}
+]

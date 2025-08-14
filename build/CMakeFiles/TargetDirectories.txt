@@ -1,0 +1,3 @@
+/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build/CMakeFiles/ProyectoFinal.dir
+/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build/CMakeFiles/edit_cache.dir
+/home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/build/CMakeFiles/rebuild_cache.dir

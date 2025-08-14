@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ProyectoFinal.dir/src/Model.cpp.o CMakeFiles/ProyectoFinal.dir/src/Shaders.cpp.o CMakeFiles/ProyectoFinal.dir/src/Texture.cpp.o CMakeFiles/ProyectoFinal.dir/src/main.cpp.o -o /home/ferloz97/Data/01_Universidad/4_1/IG/IG_ProyectoFinal/binary/ProyectoFinal  -lGL -lGLEW -lglfw -lassimp -lfreeimage 
